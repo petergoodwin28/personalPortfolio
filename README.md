@@ -21,7 +21,11 @@ https://www.sitepoint.com/angular-vs-react/#whatisangularthebasics
 
 React VSCODE
 https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
+React CheatSheet
+https://devhints.io/react
 
 Javascript Doc
 https://devdocs.io/javascript/
+
+
 
