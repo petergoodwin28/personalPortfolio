@@ -1,0 +1,9 @@
+#home-header-box {
+    display: block;
+}
+
+#home-header-box > h1 {
+    display: block;
+    text-transform: capitalize;
+    
+}
