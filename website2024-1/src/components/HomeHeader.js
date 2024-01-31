@@ -5,6 +5,6 @@ export default function HomeHeader(){
     return (
         <div id="home-header-box">
             <h1>Header</h1>
-        </div>
+        </div> 
     )
 }

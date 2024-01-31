@@ -4,5 +4,5 @@ export default function HomeFooter(){
         <div id="home-footer-box">
             <h1>Footer</h1>
         </div>
-    )
+    ) 
 }
