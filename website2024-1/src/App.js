@@ -1,16 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-
-import HomeHeader from './components/HomeHeader.js';
-import HomeBody from './components/HomeBody.js';
-import HomeFooter from './components/HomeFooter.js';
+import Home from './components/Home.js';
 
 function App() {
   return (
     <div className="App">
-      <HomeHeader/>
-      <HomeBody/>
-      <HomeFooter/>
+      <Home></Home>
       
 
     </div>
